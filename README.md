@@ -9,7 +9,7 @@ The journey of adding to what I know in web development is ongoing, with JavaScr
 ![screenshot](Profile.png)
 
 
-## Authors
+## Author
 
 👤 **Emmanuel Paul**
 
