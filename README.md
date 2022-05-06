@@ -13,9 +13,9 @@ The journey of adding to what I know in web development is ongoing, with JavaScr
 
 👤 **Emmanuel Paul**
 
-- GitHub: [Emmanuel Paul](https://github.com/Epaltechs/Webpack)
-- Twitter: [Emmanuel Paul][http://twitter.com/@emmapaul247]
-- LinkedIn: [Emmanuel Paul][https://www.linkedin.com/in/emmanuel-paul-a2bab7b4/]
+- GitHub: (https://github.com/Epaltechs)
+- Twitter: ][http://twitter.com/@emmapaul247]
+- LinkedIn: [https://www.linkedin.com/in/emmanuel-paul-a2bab7b4/]
 
 ## Acknowlegments
 🎩 I hail all those who have in one way or the other contributed to my progress in this journey so far!
