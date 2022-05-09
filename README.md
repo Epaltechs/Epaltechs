@@ -4,7 +4,7 @@
 I'm Emmanuel and it is nice to have you stop by. ✨🙏
 I'm a computer technician/network engineer and presently into the world of software development.
 I have a strong passion for learning because I believe in the saying that the moment one's stop learning, he starts dying.
-The journey of adding to what I know in web development is ongoing, with JavaScript, React, Ruby on Rails, and other programming languages adding up to my knowledge of HTML and CSS.
+The journey of adding to what I know in web development is ongoing, with JavaScript, React, Ruby on Rails, and other programming languages progressively adding up to my knowledge of HTML and CSS.
 
 ![screenshot](Profile.png)
 
@@ -14,7 +14,7 @@ The journey of adding to what I know in web development is ongoing, with JavaScr
 👤 **Emmanuel Paul**
 
 - GitHub: (https://github.com/Epaltechs)
-- Twitter: ][http://twitter.com/@emmapaul247]
+- Twitter: [http://twitter.com/@emmapaul247]
 - LinkedIn: [https://www.linkedin.com/in/emmanuel-paul-a2bab7b4/]
 
 ## Acknowlegments
