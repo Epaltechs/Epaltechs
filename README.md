@@ -6,7 +6,7 @@ I'm a computer technician/network engineer and presently into the world of softw
 I have a strong passion for learning because I believe in the saying that the moment one stop learning, he starts dying.
 The journey of adding to what I know in web development is ongoing, with JavaScript, React, Ruby on Rails, and other programming languages progressively adding up to my knowledge of HTML and CSS.
 
-![screenshot](Screenshot.jpg)
+![screenshot](Screenshot.jpeg)
 
 
 ## Author
