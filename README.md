@@ -15,7 +15,7 @@ The journey of adding to what I know in web development is ongoing, with JavaScr
 
 - GitHub: (https://github.com/Epaltechs)
 - Twitter: [https://twitter.com/@emmapaul247]
-- LinkedIn: [https://www.linkedin.com/in/Emmanuel-S-Paul/]
+- LinkedIn: [https://www.linkedin.com/in/emmanuel-s-paul]
 - AngeList: [https://angel.co/u/emmanuel-s-paul]
 
 ## Acknowlegments
