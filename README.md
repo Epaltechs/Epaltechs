@@ -2,9 +2,9 @@
 
 
 I'm Emmanuel and it is nice to have you stop by. ✨🙏
-I'm a computer technician/network engineer and presently into the world of software development.
+I'm a Full-stack developer, computer technician and network engineer.
 I have a strong passion for learning because I believe in the saying that the moment one stop learning, he starts dying.
-The journey of adding to what I know in web development is ongoing, with JavaScript, React, Ruby on Rails, and other programming languages progressively adding up to my knowledge of HTML and CSS.
+The journey of adding to what I know in web development is ongoing, as I keep improving on my knowledge of HTML, CSS, JavaScript, React, Ruby, Ruby on Rails, and other programming languages and their frameworks.
 
 ![screenshot](Screenshot.jpeg)
 
