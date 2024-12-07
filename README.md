@@ -15,7 +15,7 @@ My journey in web development is dynamic, not static, as I keep improving my kno
 
 - GitHub: (https://github.com/Epaltechs)
 - X (formerly Twitter): [https://twitter.com/@emmapaul247]
-- LinkedIn: [https://www.linkedin.com/in/emmanuel-s-paul]
+- LinkedIn: [https://www.linkedin.com/in/emmanuel-paul7777]
 - Wellfound (formerly AngeList): [https://angel.co/u/emmanuel-s-paul]
 
 ## Acknowledgments
